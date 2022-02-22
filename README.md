@@ -9,10 +9,39 @@ Type | Available
 
 ## Retail Games
 
-Game | Language | Patch Credit | System 
+Game | Region | Patch Credit | System 
 --- | --- | --- | --- 
-[Pokémon Crystal Version](#pokémon-crystal-version) | English | Zhuowei Zhang | GBC
-[Pokémon - Edicion Cristal](#pokémon---edicion-cristal) | Spanish | Linkr2 | GBC
+[Caesars Palace](#caesars-palace) | USA | r0r0 | GB
+[Densha de Go!](#densha-de-go) | Japan | r0r0 | GBC
+[Gargoyle's Quest](#gargoyle-s-quest) | USA/Europe | r0r0 | GB
+[Pokémon Crystal Version](#pokémon-crystal-version) | USA/Europe | Zhuowei Zhang | GBC
+[Pokémon - Edicion Cristal](#pokémon---edicion-cristal) | Spain | Linkr2 | GBC
+[Project S-11](#project-s-11) | USA | r0r0 | GBC
+[Trip World](#trip-world) | Europe | r0r0 & JoseJX | GB
+
+### Caesars Palace
+
+This patch converts Rev 1 of the USA ROM. Created by **r0r0**.
+
+MD5: `9c9679e4da4daa2ee22f1c35eef03cad`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/caesars_palace_usa_rev_a_pocket-9c9679e4da4daa2ee22f1c35eef03cad.ips).
+
+### Densha de Go!
+
+This patch converts the Japanese ROM. Created by **r0r0**.
+
+MD5: `0e63965664df3bf3217254a22422cc86`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/densha-de-go-pocket-patch-0e63965664df3bf3217254a22422cc86.ips).
+
+### Gargoyle's Quest
+
+Requires the US/Europe ROM. Created by **r0r0**.
+
+MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Gargoyles-Quest-USA-EU-63e3f5f4b90f17bdf6d2f2aed515e248.ips).
 
 ### Pokémon Crystal Version
 
@@ -37,6 +66,26 @@ Language: `Spanish`
 MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+
+### Project S-11
+
+Updated 2022-01-08
+
+Requires the USA ROM. Created by **r0r0**.
+
+MD5: `8fe6340c822daa9cb07c7d8ab8509751`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/project-s-11-pocket-8fe6340c822daa9cb07c7d8ab8509751-v2.ips).
+
+### Trip World
+
+Requires the European ROM. Created by **r0r0**.
+
+Patch updated by JoseJX to fix crash at end of game. 2022-02-13
+
+MD5: `c46e059a69d9b3b4b0b9d8d303c559b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/trip-world-eu.ips).
 
 ## Hacks
 
