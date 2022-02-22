@@ -40,7 +40,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 ## Hacks
 
-Hack Name | Base Game | Hack Credit | Patch Credit 
+Hack | Game | Hack Credit | Patch Credit 
 --- | --- | --- | --- 
 [Super Mario Land 2 DX](#super-mario-land-2-dx) | Super Mario Land 2: 6 Golden Coins | Infinest | toruzz
 
