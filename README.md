@@ -2,7 +2,7 @@
 
 Type | Available 
 --- | --- 
-[Retail Games](#retail-games) | 2
+[Retail Games](#retail-games) | 7
 [Hacks](#hacks) | 3
 [Homebrew](#homebrew) | 3
 [Translations](#Translations) | 4
@@ -13,7 +13,7 @@ Game | Region | Patch Credit | System
 --- | --- | --- | --- 
 [Caesars Palace](#caesars-palace) | USA | r0r0 | GB
 [Densha de Go!](#densha-de-go) | Japan | r0r0 | GBC
-[Gargoyle's Quest](#gargoyle-s-quest) | USA/Europe | r0r0 | GB
+[Gargoyle's Quest](#gargoyles-quest) | USA/Europe | r0r0 | GB
 [Pokémon Crystal Version](#pokémon-crystal-version) | USA/Europe | Zhuowei Zhang | GBC
 [Pokémon - Edicion Cristal](#pokémon---edicion-cristal) | Spain | Linkr2 | GBC
 [Project S-11](#project-s-11) | USA | r0r0 | GBC
