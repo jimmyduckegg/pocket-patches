@@ -101,7 +101,7 @@ The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English
 
 MD5: `78c568cbfff6314b1416880d9efaeca6`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips).
+You can ~~download the Analogue Pocket IPS patch here~~.
 
 ### Medarot - Kuwagata Version
 
@@ -109,7 +109,7 @@ The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English
 
 MD5: `a9c9d6b6759c28f2b3986717f4df2f98`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips).
+You can ~~download the Analogue Pocket IPS patch here~~.
 
 ### Pokémon Picross
 
