@@ -3,7 +3,7 @@
 Type | Available 
 --- | --- 
 [Retail Games](#retail-games) | 2
-[Hacks](#hacks) | 1
+[Hacks](#hacks) | 3
 [Homebrew](#homebrew) | 3
 [Translations](#Translations) | 4
 
@@ -42,7 +42,18 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 Hack | Game | Hack Credit | Patch Credit 
 --- | --- | --- | --- 
-[Super Mario Land 2 DX](#super-mario-land-2-dx) | Super Mario Land 2: 6 Golden Coins | Infinest | toruzz
+[Pokémon Black](#pokémon-black) | Pokémon Red Version | Ax461 | janmalec
+[Super Mario Land 2 DX](#super-mario-land-2-dx) | Super Mario Land 2: 6 Golden Coins | toruzz | Infinest
+[Tetris Rosy Retrospection](#tetris-rosy-retrospection) | Tetris | Ospin | BestPig & FrenZon
+
+
+### Pokémon Black
+
+This patch applies the `.pocket` IPS patch created by **janmalec** and the [Pokémon Black ROM Hack](https://www.romhacking.net/hacks/4577) created by **Ax461** to Pokémon Red.
+
+MD5: `45ff4e34868e32d638f5db2fc36bdebd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/black_pocket.ips).
 
 ### Super Mario Land 2 DX
 
@@ -57,6 +68,16 @@ Credits
 * Analogue Pocket Patch: `infinest`
 * Super Mario Land 2 DX ROM Hack: `toruzz`
 * Consolidation Work: `jimmyduckegg`
+
+### Tetris Rosy Retrospection
+
+This patch applies the `.pocket` IPS patch created by **BestPig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
+
+This combination patch was created by **FrenZon** and is rehosted here with permission. 
+
+MD5: `982ed5d2b12a0377eb14bcdc4123744e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
 
 ## Homebrew
 
