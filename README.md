@@ -22,11 +22,11 @@ Language `English`
 
 MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/pokecrystal.ips).
 
 MD5: `301899b8087289a6436b0a241fbbb474`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal11.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/pokecrystal11.ips).
 
 ### Pokémon - Edicion Cristal
 
@@ -36,7 +36,7 @@ Language: `Spanish`
 
 MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
 
 ## Hacks
 
@@ -56,7 +56,7 @@ This patch was created by **r0r0**.
 
 MD5: `c85e5ba3dad5aa705b96da083cdd1a1c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/danganV11.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/danganV11.ips).
 
 ### Deadeus
 
@@ -66,7 +66,7 @@ This patch was created by **BestPig**.
 
 MD5: `b04f705f3e4db711560f9834a6431171`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Deadeus-7da95971.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Deadeus-7da95971.ips).
 
 ### Opossum Country
 
@@ -76,7 +76,7 @@ This patch was created by **r0r0**
 
 MD5: `5c0ed7c257219b6fab67c5f9d9ab25f8`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/opossum_country_v1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/opossum_country_v1.ips).
 
 ## Translations
 
