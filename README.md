@@ -89,8 +89,6 @@ Game | Language | Translator Credit | Patch Credit
 [Pokémon Trading Card Game 2](#pokémon-trading-card-game-2) | English | Artemis251 | BestPig
 [Sakura Wars GB](#sakura-wars-gb) | English | vinheim3 | JoseJX
 
-### Cave Noire
-
 ### For the Frog the Bell Tolls
 
 The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/1623/) created by **ryanbgstl** to Kaeru no Tame ni Kane wa Naru.
