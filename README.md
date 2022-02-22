@@ -1,11 +1,11 @@
 # pocket-patches
 
-# pocket-hack-patches
-Pocket + Hack/Translation Patches
-
 Type | Available 
 --- | --- 
-[Translations](#Translations) | 0
+[Retail Games](#retail-games) | 0
+[Homebrew](#homebrew) | 0
+[ROM Hacks](#rom-hacks) | 0
+[Translations](#Translations) | 7
 
 ## Translations
 
