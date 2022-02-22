@@ -71,7 +71,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 ### Project S-11
 
-Updated 2022-01-08
+Updated to fix bugs. [2022-01-08]
 
 * Region: `USA`
 * Patch Creator: `r0r0`
@@ -81,7 +81,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 ### Trip World
 
-Patch updated by JoseJX to fix crash at end of game. [2022-02-13]
+Updated by JoseJX to fix crash at end of game. [2022-02-13]
 
 * Region: `Europe`
 * Patch Creator: `r0r0`
