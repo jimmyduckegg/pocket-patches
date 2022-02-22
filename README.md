@@ -40,6 +40,24 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 ## Hacks
 
+Hack Name | Base Game | Hack Credit | Patch Credit 
+--- | --- | --- | --- 
+[Super Mario Land 2 DX](#super-mario-land-2-dx) | Super Mario Land 2: 6 Golden Coins | Infinest | toruzz
+
+### Super Mario Land 2 DX
+
+This patch adds the incredible [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/) ROM hack to the game **and** converts it for use on Analogue Pocket.
+
+MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/blob/main/SML2%20DX%20Pocket%20Patch.ips).
+
+Credits
+
+* Analogue Pocket Patch: `infinest`
+* Super Mario Land 2 DX ROM Hack: `toruzz`
+* Consolidation Work: `jimmyduckegg`
+
 ## Homebrew
 
 Game | Creator | Patch Credit 
