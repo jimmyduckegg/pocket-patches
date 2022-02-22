@@ -7,6 +7,37 @@ Type | Available
 [ROM Hacks](#rom-hacks) | 0
 [Translations](#Translations) | 7
 
+## Retail Games
+
+Game | Language | Patch Credit | System 
+--- | --- | --- | --- 
+[Pokémon Crystal Version](#pokémon-crystal-version) | English | Zhuowei Zhang | GBC
+[Pokémon - Edicion Cristal](#pokémon---edicion-cristal) | Spanish | Linkr2 | GBC
+
+### Pokémon Crystal Version
+
+These patches were created by [Zhuowei Zhang](https://twitter.com/Zhuowei).
+
+Language `English`
+
+MD5: `9f2922b235a5eeb78d65594e82ef5dde`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal.ips).
+
+MD5: `301899b8087289a6436b0a241fbbb474`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal11.ips).
+
+### Pokémon - Edicion Cristal
+
+This patch was created by **Linkr2**.
+
+Language: `Spanish`
+
+MD5: `8a626340f6b16ba45c1d4e07f2134875`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+
 ## Translations
 
 Game | Language | Translator Credit | Patch Credit 
