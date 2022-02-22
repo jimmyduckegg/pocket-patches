@@ -21,51 +21,51 @@ Game | Region | Patch Credit | System
 
 ### Caesars Palace
 
-Region: `USA`
-Revision: `Rev 1`
-Patch Creator: `r0r0`
-MD5: `9c9679e4da4daa2ee22f1c35eef03cad`
+* Region: `USA`
+* Revision: `Rev 1`
+* Patch Creator: `r0r0`
+* MD5: `9c9679e4da4daa2ee22f1c35eef03cad`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/caesars_palace_usa_rev_a_pocket-9c9679e4da4daa2ee22f1c35eef03cad.ips).
 
 ### Densha de Go!
 
-Region: `Japan`
-Patch Creator: `r0r0`
-MD5: `0e63965664df3bf3217254a22422cc86`
+* Region: `Japan`
+* Patch Creator: `r0r0`
+* MD5: `0e63965664df3bf3217254a22422cc86`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/densha-de-go-pocket-patch-0e63965664df3bf3217254a22422cc86.ips).
 
 ### Gargoyle's Quest
 
-Region: `USA/Europe`
-Patch Creator: `r0r0`
-MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
+* Region: `USA/Europe`
+* Patch Creator: `r0r0`
+* MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Gargoyles-Quest-USA-EU-63e3f5f4b90f17bdf6d2f2aed515e248.ips).
 
 ### Pokémon Crystal Version
 
-Region: `USA/Europe`
-Revision: `Rev 0`
-Patch Creator: `Zhuowei Zhang`
-MD5: `9f2922b235a5eeb78d65594e82ef5dde`
+* Region: `USA/Europe`
+* Revision: `Rev 0`
+* Patch Creator: `Zhuowei Zhang`
+* MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/pokecrystal.ips).
 
-Region: `USA/Europe`
-Revision: `Rev 1`
-Patch Creator: `Zhuowei Zhang`
-MD5: `301899b8087289a6436b0a241fbbb474`
+* Region: `USA/Europe`
+* Revision: `Rev 1`
+* Patch Creator: `Zhuowei Zhang`
+* MD5: `301899b8087289a6436b0a241fbbb474`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/pokecrystal11.ips).
 
 ### Pokémon - Edicion Cristal
 
-Region: `Spain`
-Revision: `Rev 0`
-Patch Creator: `Linkr2`
-MD5: `8a626340f6b16ba45c1d4e07f2134875`
+* Region: `Spain`
+* Revision: `Rev 0`
+* Patch Creator: `Linkr2`
+* MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
 
@@ -73,19 +73,19 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jimmydu
 
 Updated 2022-01-08
 
-Region: `USA`
-Patch Creator: `r0r0`
-MD5: `8fe6340c822daa9cb07c7d8ab8509751`
+* Region: `USA`
+* Patch Creator: `r0r0`
+* MD5: `8fe6340c822daa9cb07c7d8ab8509751`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/project-s-11-pocket-8fe6340c822daa9cb07c7d8ab8509751-v2.ips).
 
 ### Trip World
 
-Patch updated by JoseJX to fix crash at end of game. 2022-02-13
+Patch updated by JoseJX to fix crash at end of game. [2022-02-13]
 
-Region: `Europe`
-Patch Creator: `r0r0`
-MD5: `c46e059a69d9b3b4b0b9d8d303c559b3`
+* Region: `Europe`
+* Patch Creator: `r0r0`
+* MD5: `c46e059a69d9b3b4b0b9d8d303c559b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/trip-world-eu.ips).
 
