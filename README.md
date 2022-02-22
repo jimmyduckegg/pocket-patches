@@ -133,4 +133,4 @@ The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English
 
 MD5: `70883b45a97984cb033c2b95028bef65`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Sakura%20Wars%20ENG%20Pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jimmyduckegg/pocket-patches/raw/main/Sakura%20Wars%20ENG%20Pocket.ips).
