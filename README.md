@@ -3,8 +3,8 @@
 Type | Available 
 --- | --- 
 [Retail Games](#retail-games) | 2
+[Hacks](#hacks) | 0
 [Homebrew](#homebrew) | 3
-[ROM Hacks](#rom-hacks) | 0
 [Translations](#Translations) | 6
 
 ## Retail Games
@@ -37,6 +37,8 @@ Language: `Spanish`
 MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+
+## Hacks
 
 ## Homebrew
 
