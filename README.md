@@ -2,8 +2,8 @@
 
 Type | Available 
 --- | --- 
-[Retail Games](#retail-games) | 0
-[Homebrew](#homebrew) | 0
+[Retail Games](#retail-games) | 2
+[Homebrew](#homebrew) | 3
 [ROM Hacks](#rom-hacks) | 0
 [Translations](#Translations) | 7
 
@@ -37,6 +37,43 @@ Language: `Spanish`
 MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+
+## Homebrew
+
+Game | Creator | Patch Credit 
+--- | --- | ---
+[Dangan GB](#dangan-gb) | snorpung | r0r0
+[Deadeus](#deadeus) | IZMA | BestPig
+[Opossum Country](#opossum-country) | Ben Jelter | r0r0
+### Dangan GB
+
+This patch converts v1.1 of [Dangan GB](https://snorpung.itch.io/dangan-gb) to `.pocket` format.
+
+This patch was created by **r0r0**.
+
+MD5: `c85e5ba3dad5aa705b96da083cdd1a1c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/danganV11.ips).
+
+### Deadeus
+
+This patch converts the 'Regular Edition' (V1.3.8) of [Deadeus](https://izma.itch.io/deadeus?download) to `.pocket` format.
+
+This patch was created by **BestPig**.
+
+MD5: `b04f705f3e4db711560f9834a6431171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Deadeus-7da95971.ips).
+
+### Opossum Country
+
+This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
+
+This patch was created by **r0r0**
+
+MD5: `5c0ed7c257219b6fab67c5f9d9ab25f8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/opossum_country_v1.ips).
 
 ## Translations
 
