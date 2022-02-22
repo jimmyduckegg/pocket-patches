@@ -5,7 +5,7 @@ Type | Available
 [Retail Games](#retail-games) | 2
 [Homebrew](#homebrew) | 3
 [ROM Hacks](#rom-hacks) | 0
-[Translations](#Translations) | 7
+[Translations](#Translations) | 6
 
 ## Retail Games
 
@@ -45,6 +45,7 @@ Game | Creator | Patch Credit
 [Dangan GB](#dangan-gb) | snorpung | r0r0
 [Deadeus](#deadeus) | IZMA | BestPig
 [Opossum Country](#opossum-country) | Ben Jelter | r0r0
+
 ### Dangan GB
 
 This patch converts v1.1 of [Dangan GB](https://snorpung.itch.io/dangan-gb) to `.pocket` format.
@@ -79,10 +80,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 Game | Language | Translator Credit | Patch Credit 
 --- | --- | --- | --- 
-[Cave Noire](#cave-noire) | English | ??? | ???
 [For the Frog the Bell Tolls](#for-the-frog-the-bell-tolls) | English | ryanbgstl | JoseJX
-[Medarot - Kabuto Version](#medarot---kabuto-version) | English | ??? | JoseJX
-[Medarot - Kuwagata Version](#medarot---kuwagata-version) | English | ??? | JoseJX
+[Medarot - Kabuto Version](#medarot---kabuto-version) | English | VariantXYZ | JoseJX
+[Medarot - Kuwagata Version](#medarot---kuwagata-version) | English | VariantXYZ | JoseJX
 [Pokémon Picross](#pokémon-picross) | English | LeonarthCG | JoseJX
 [Pokémon Trading Card Game 2](#pokémon-trading-card-game-2) | English | Artemis251 | BestPig
 [Sakura Wars GB](#sakura-wars-gb) | English | vinheim3 | JoseJX
@@ -97,7 +97,19 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ### Medarot - Kabuto Version
 
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://github.com/Medabots/medarot1/releases/tag/0.6.7+EN.txt.19) created by **VariantXYZ** to Pokémon Picross.
+
+MD5: `78c568cbfff6314b1416880d9efaeca6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips).
+
 ### Medarot - Kuwagata Version
+
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://github.com/Medabots/medarot1/releases/tag/0.6.7+EN.txt.19) created by **VariantXYZ** to Pokémon Picross.
+
+MD5: `a9c9d6b6759c28f2b3986717f4df2f98`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips).
 
 ### Pokémon Picross
 
