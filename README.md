@@ -3,9 +3,9 @@
 Type | Available 
 --- | --- 
 [Retail Games](#retail-games) | 2
-[Hacks](#hacks) | 0
+[Hacks](#hacks) | 1
 [Homebrew](#homebrew) | 3
-[Translations](#Translations) | 6
+[Translations](#Translations) | 4
 
 ## Retail Games
 
